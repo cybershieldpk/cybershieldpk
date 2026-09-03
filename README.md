@@ -8,7 +8,7 @@
 
 **Learn. Practice. Defend.**
 
-[![Website](https://img.shields.io/badge/Website-cybershieldpk.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00E5A0)](https://cybershieldpk.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-cybershieldpk.eu.cc/-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00E5A0)](https://cybershieldpk.eu.cc/)
 [![Telegram](https://img.shields.io/badge/Telegram-CYBER__SHIELD__PK-0A0A0A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/CYBER_SHIELD_PK)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://whatsapp.com/channel/0029VaHLq9X8kyyVvlT7RD0Q)
 
