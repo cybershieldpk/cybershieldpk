@@ -1,66 +1,234 @@
-<div align="center">
+# 🛡️ Cyber Shield PK
 
-<img src="cyber-shield-pk-logo.svg" width="140" alt="Cyber Shield PK logo" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Cyber%20Shield%20PK-Learn%20%7C%20Practice%20%7C%20Defend-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-# Cyber Shield PK
+<p align="center">
+  <b>Open-source cybersecurity projects, labs, tools & learning resources.</b>
+</p>
 
-### Cybersecurity Community · Ethical Hacking · Penetration Testing · Red Teaming · Open Source Security
-
-**Learn. Practice. Defend.**
-
-[![Website](https://img.shields.io/badge/Website-cybershieldpk.eu.cc/-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00E5A0)](https://cybershieldpk.eu.cc/)
-[![Telegram](https://img.shields.io/badge/Telegram-CYBER__SHIELD__PK-0A0A0A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/CYBER_SHIELD_PK)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://whatsapp.com/channel/0029VaHLq9X8kyyVvlT7RD0Q)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Projects-Open%20Source-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Labs-Self%20Hosted-blue?style=flat-square">
+</p>
 
 ---
 
-## 🛡️ Who we are
+## ⚡ `whoami`
 
-**Cyber Shield PK** is an open-source cybersecurity community from Pakistan focused on building free, self-hosted tools and labs for students, educators, and CTF players. We believe security skills should be practiced hands-on, in safe local environments — not on someone else's production server.
-
-## 🚀 Featured project
-
-### [cyber-shield-pk-ctf](https://github.com/cybershieldpk/cyber-shield-pk-ctf)
-An open-source, self-hosted CTF lab with 10 beginner-friendly Web, Linux, Forensics, and API challenges — server-side flag validation, progress tracking, hints, and a local leaderboard. Runs entirely on your own machine with Docker Compose.
-
-```bash
-git clone https://github.com/cybershieldpk/cyber-shield-pk-ctf.git
-cd cyber-shield-pk-ctf
-./scripts/setup.sh
+```text
+╔══════════════════════════════════════════════╗
+║              CYBER SHIELD PK                 ║
+╠══════════════════════════════════════════════╣
+║ Developer & Project Lead : Arham Farooque     ║
+║ Organization             : Cyber Shield PK    ║
+║ Focus                    : Cybersecurity      ║
+║ Mission                  : Learn & Defend     ║
+╚══════════════════════════════════════════════╝
 ```
 
-## 🎯 What we're building toward
+**Cyber Shield PK** is an open-source cybersecurity initiative focused on building practical learning environments, security tools, educational resources, and hands-on laboratories.
 
-- More CTF challenge packs (Crypto, Reverse Engineering, Binary Exploitation)
-- Beginner-friendly write-ups and secure-development lessons
-- A local, no-signup training environment anyone can self-host
+> 🛡️ Learn. Practice. Defend.
 
-## 🧰 Tech we work with
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## 🎯 What We Build
 
-## 🤝 Contributing
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   🔐 Cybersecurity Learning                 │
+│   🧪 Security Labs                          │
+│   🌐 Web Security                           │
+│   🕵️ Security Research                      │
+│   💻 Developer Security Tools               │
+│   🎯 CTF & Practical Training               │
+│   📚 Open-Source Resources                  │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-We welcome new challenges, bug fixes, and documentation improvements. Check the `CONTRIBUTING.md` file in [cyber-shield-pk-ctf](https://github.com/cybershieldpk/cyber-shield-pk-ctf) before opening a pull request.
+Our goal is to make cybersecurity education more **practical, accessible, self-hosted and community-driven**.
 
-## ⚖️ Ethics first
+---
 
-Everything we build is for **authorized, local, educational use only**. We do not build or share tools for attacking systems you don't own or have permission to test.
+## 🚀 Featured Projects
 
-## 📬 Get in touch
+### 🧪 Cyber Shield PK CTF Lab
 
-- 🌐 Website: [cybershieldpk.vercel.app](https://cybershieldpk.vercel.app/)
-- 💬 Telegram: [@CYBER_SHIELD_PK](https://t.me/CYBER_SHIELD_PK)
-- 📢 WhatsApp Channel: [Join here](https://whatsapp.com/channel/0029VaHLq9X8kyyVvlT7RD0Q)
+A self-hosted cybersecurity CTF platform containing intentionally vulnerable local challenges for learning and practice.
 
-<div align="center">
+**Focus:** `Web Security` • `Linux` • `Forensics` • `API Security`
 
-*Made with 🛡️ in Pakistan.*
+🔗 https://github.com/cybershieldpk/cyber-shield-pk-ctf
 
-</div>
+---
+
+### ⚔️ WebStrike Lab
+
+A dedicated offensive-security learning environment designed around the authorized web penetration-testing workflow.
+
+```text
+Recon
+  ↓
+Enumeration
+  ↓
+Vulnerability Discovery
+  ↓
+Safe Exploitation
+  ↓
+Evidence
+  ↓
+Impact
+  ↓
+Remediation
+  ↓
+Report
+```
+
+**Focus:** `Web Pentesting` • `OWASP` • `Security Labs` • `Docker`
+
+---
+
+## 🧰 Areas of Focus
+
+| Area | Focus |
+|---|---|
+| 🌐 Web Security | XSS, SQLi, Access Control, Authentication |
+| 🔌 API Security | API testing & security concepts |
+| 🐧 Linux | Linux security & fundamentals |
+| 🧪 CTF | Hands-on security challenges |
+| 🔍 Research | Security analysis & experimentation |
+| 🛠️ Tools | Open-source security utilities |
+| 📚 Education | Beginner-friendly cybersecurity learning |
+
+---
+
+## 💻 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,fastapi,docker,postgres,linux,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Cybersecurity Learning Path
+
+```text
+                    CYBER SHIELD PK
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+          BLUE TEAM                 RED TEAM
+              │                         │
+        ┌─────┴─────┐             ┌─────┴─────┐
+        │           │             │           │
+      SOC        Detection      Recon       Web
+        │           │             │           │
+      Logs       Analysis     Enumeration   Testing
+        │           │             │           │
+      SIEM       Response     Discovery    Exploitation
+        │           │             │           │
+        └───────────┴─────────────┴───────────┘
+                           │
+                     SECURITY MINDSET
+```
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cybershieldpk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybershieldpk&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Contribution Philosophy
+
+```text
+┌───────────────────────────────────────┐
+│                                       │
+│  Learn something new                  │
+│          ↓                            │
+│  Build something useful               │
+│          ↓                            │
+│  Share it openly                      │
+│          ↓                            │
+│  Help the community                   │
+│          ↓                            │
+│  Keep improving                       │
+│                                       │
+└───────────────────────────────────────┘
+```
+
+We believe cybersecurity knowledge becomes more valuable when it is **shared responsibly**.
+
+---
+
+## 🤝 Community
+
+Cyber Shield PK aims to support students, beginners, developers, CTF players and cybersecurity enthusiasts through practical, open-source resources.
+
+### Contributions are welcome
+
+- 🐛 Bug reports
+- 💡 Feature ideas
+- 🧪 New educational labs
+- 📚 Documentation
+- 🔧 Code improvements
+- 🛡️ Security reviews
+
+---
+
+## ⚖️ Responsible Security
+
+Cyber Shield PK promotes **authorized and ethical security research**.
+
+All security testing should be performed only against:
+
+- Systems you own
+- Local training environments
+- Intentionally vulnerable labs
+- Systems where you have explicit authorization
+
+Never use educational tools or labs against unauthorized targets.
+
+---
+
+## 👨‍💻 Developer
+
+### Arham Farooque
+
+**Developer & Project Lead — Cyber Shield PK**
+
+Building open-source cybersecurity projects with a focus on:
+
+`Learning` • `Security` • `Open Source` • `Community`
+
+---
+
+## 🛡️ CYBER SHIELD PK
+
+```text
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+██║       ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗
+╚██████╗   ██║   ██║     ███████╗██║  ██║
+ ╚═════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝
+```
+
+### `LEARN. PRACTICE. DEFEND.`
+
+---
+
+<p align="center">
+  <b>© Cyber Shield PK</b>
+  <br>
+  <sub>Built by Arham Farooque</sub>
+</p>
